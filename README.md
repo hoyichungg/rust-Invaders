@@ -6,7 +6,6 @@ Rust-Invader 是一款用 Rust 語言編寫的簡單街機遊戲。靈感來自�
 ## 特色
 - 簡單直觀的遊戲玩法。
 - 復古圖形和音效。
-- 高分追蹤。
 
 ## 系統要求
 要運行 Rust-Invader，您需要在您的電腦上安裝 Rust。您可以通過官方網站安裝 Rust：[安裝 Rust](https://www.rust-lang.org/tools/install)。
