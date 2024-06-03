@@ -13,7 +13,7 @@ Rust-Invader 是一款用 Rust 語言編寫的簡單街機遊戲。靈感來自�
 ## 安裝
 
 ```bash
-git clone https://github.com/yourusername/rust-invader.git
+git clone
 cd rust-invader
 cargo run
 ```
